@@ -1,4 +1,4 @@
-package com.fedex.tradetools.hs.hsvalidation.v3.validator;
+
 
 public class TestMain {
 
